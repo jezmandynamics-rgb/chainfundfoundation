@@ -3,9 +3,9 @@
 
 const INSTRUMENTS = {
   crypto: [
-    { sym: 'BTC',   name: 'Bitcoin',     price: 63300.30, vol: 0.0015 },
-    { sym: 'ETH',   name: 'Ethereum',    price: 1802.75,  vol: 0.0018 },
-    { sym: 'SOL',   name: 'Solana',      price: 69.39,   vol: 0.0030 },
+    { sym: 'BTC',   name: 'Bitcoin',     price: 64600.30, vol: 0.0015 },
+    { sym: 'ETH',   name: 'Ethereum',    price: 1868.75,  vol: 0.0018 },
+    { sym: 'SOL',   name: 'Solana',      price: 76.13,   vol: 0.0030 },
     { sym: 'DOGE',  name: 'Dogecoin',    price: 2.3065,   vol: 0.0045 },
     { sym: 'XRP',   name:'Ripple',      price: 115.965,     vol: 0.0028 },
     { sym: 'ADA',   name: 'Cardano',     price: 10.04,     vol: 0.0032 },
@@ -13,8 +13,8 @@ const INSTRUMENTS = {
     { sym: 'LINK',  name: 'Chainlink',   price: 7.94,    vol: 0.0028 },
   ],
   stocks: [
-    { sym: 'TSLA',  name: 'Tesla Inc.',           price: 400.18, vol: 0.0020 },
-    { sym: 'SPACEX',name: 'SpaceX (Private)',     price: 162.42, vol: 0.0012 },
+    { sym: 'TSLA',  name: 'Tesla Inc.',           price: 380.18, vol: 0.0020 },
+    { sym: 'SPACEX',name: 'SpaceX (Private)',     price: 123.42, vol: 0.0012 },
     { sym: 'RKLB',  name: 'Rocket Lab',           price: 107.42,  vol: 0.0020 },
     { sym: 'ASTS',  name: 'AST SpaceMobile',      price: 80.10,  vol: 0.0025 },
     { sym: 'LMT',   name: 'Lockheed Martin',      price: 510.75, vol: 0.0008 },
@@ -24,14 +24,14 @@ const INSTRUMENTS = {
     { sym: 'IRDM',  name:'Iridium Communications',price: 44.80, vol: 0.0015 },
   ],
   forex: [
-    { sym: 'EUR/USD', name: 'Euro / Dollar',          price: 1.0842, vol: 0.0004 },
-    { sym: 'GBP/USD', name: 'Pound / Dollar',         price: 1.2715, vol: 0.0005 },
-    { sym: 'USD/JPY', name: 'Dollar / Yen',           price: 154.32, vol: 0.0005 },
+    { sym: 'EUR/USD', name: 'Euro / Dollar',          price: 1.1438, vol: 0.0004 },
+    { sym: 'GBP/USD', name: 'Pound / Dollar',         price: 1.3452, vol: 0.0005 },
+    { sym: 'USD/JPY', name: 'Dollar / Yen',           price: 162.41, vol: 0.0005 },
     { sym: 'USD/CHF', name: 'Dollar / Franc',         price: 0.8945, vol: 0.0004 },
     { sym: 'AUD/USD', name: 'Aussie / Dollar',        price: 0.6512, vol: 0.0006 },
     { sym: 'USD/CAD', name: 'Dollar / Loonie',        price: 1.4218, vol: 0.0004 },
     { sym: 'NZD/USD', name: 'Kiwi / Dollar',          price: 0.5895, vol: 0.0006 },
-    { sym: 'EUR/GBP', name: 'Euro / Pound',           price: 0.8527, vol: 0.0004 },
+    { sym: 'EUR/GBP', name: 'Euro / Pound',           price: 1.3454, vol: 0.0004 },
   ],
 };
 
