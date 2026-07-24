@@ -24,7 +24,7 @@ const INSTRUMENTS = {
     { sym: 'IRDM',  name:'Iridium Communications',price: 44.80, vol: 0.0015 },
   ],
   forex: [
-    { sym: 'EUR/USD', name: 'Euro / Dollar',          price: 1.1438, vol: 0.0004 },
+    { sym: 'EUR/USD', name: 'Euro / Dollar',          price: 1.1385, vol: 0.0004 },
     { sym: 'GBP/USD', name: 'Pound / Dollar',         price: 1.3452, vol: 0.0005 },
     { sym: 'USD/JPY', name: 'Dollar / Yen',           price: 162.41, vol: 0.0005 },
     { sym: 'USD/CHF', name: 'Dollar / Franc',         price: 0.8945, vol: 0.0004 },
