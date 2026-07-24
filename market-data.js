@@ -14,7 +14,7 @@ const INSTRUMENTS = {
   ],
   stocks: [
     { sym: 'TSLA',  name: 'Tesla Inc.',           price: 380.18, vol: 0.0020 },
-    { sym: 'SPACEX',name: 'SpaceX (Private)',     price: 123.42, vol: 0.0012 },
+    { sym: 'SPACEX',name: 'SpaceX (Private)',     price: 112.42, vol: 0.0012 },
     { sym: 'RKLB',  name: 'Rocket Lab',           price: 107.42,  vol: 0.0020 },
     { sym: 'ASTS',  name: 'AST SpaceMobile',      price: 80.10,  vol: 0.0025 },
     { sym: 'LMT',   name: 'Lockheed Martin',      price: 510.75, vol: 0.0008 },
