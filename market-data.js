@@ -3,7 +3,7 @@
 
 const INSTRUMENTS = {
   crypto: [
-    { sym: 'BTC',   name: 'Bitcoin',     price: 64074.30, vol: 0.0015 },
+    { sym: 'BTC',   name: 'Bitcoin',     price: 64700.30, vol: 0.0015 },
     { sym: 'ETH',   name: 'Ethereum',    price: 1868.75,  vol: 0.0018 },
     { sym: 'SOL',   name: 'Solana',      price: 76.13,   vol: 0.0030 },
     { sym: 'DOGE',  name: 'Dogecoin',    price: 2.3065,   vol: 0.0045 },
